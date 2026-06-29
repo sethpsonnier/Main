@@ -1,3 +1,8 @@
+# NTLM Audit Script - Enhanced Version
+# Analyzes NTLM authentication events for security assessment
+# Author: Security Team
+# Version: 2.0
+
 [CmdletBinding()]
 param(
     [int]$DaysBack = 7,
